@@ -10,7 +10,7 @@ Location: Austin, TX | Remote :computer:
 - Ansible & AWX platform 
 - Terraform
 - Cloud AWS/AKS
-- Linux | off course :)
+- Linux
 
 # Can code in
 
