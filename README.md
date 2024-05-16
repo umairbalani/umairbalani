@@ -1,16 +1,42 @@
-### Hi there 👋
+# Umair Balani
+MLOps Engineer | SymphonyAI<br>
+Location: Austin, TX | Remote :computer:
 
-<!--
-**umairbalani/umairbalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Things I know
 
-Here are some ideas to get you started:
+- Kubernetes
+- Helm Charts
+- Git & Github
+- Ansible & AWX platform 
+- Terraform
+- Cloud AWS/AKS
+- Linux | off course :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Can code in
+
+- Python
+- Bash
+- Learning Rust/Go for fun
+
+# Experience 
+
+  
+## MLOps Engineer
+**[SymphonyAI]**  
+[Austin, TX]  
+*Nov/2021 – Present*
+
+## Systems Administrator II
+**[Lifesize]**  
+[Austin, TX]  
+*Jul/2019 – Oct 2021*
+
+## System Administrator I
+**[Lifesize]**  
+[Austin, TX]  
+*Jan/2018 – Jun 2019*
+
+## Linux Admin
+**[Endurance International Group]**  
+[Austin, TX]  
+*Jun/2015 – Mar 2017*
